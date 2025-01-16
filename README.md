@@ -3,7 +3,7 @@ This competition, hosted by Jane Street, focuses on building machine learning mo
 [Official Competition Page](https://www.kaggle.com/competitions/jane-street-market-prediction/overview)  
 [Dataset Description Page](https://www.kaggle.com/competitions/jane-street-real-time-market-data-forecasting/data)  
 
-This repository contains training notebooks showcasing for different tabular models training.  
+Repository contains training notebooks showcasing for different tabular models training.  
 [TabM Models Wandb Project](https://wandb.ai/turkenm/js_tabm/workspace)  
 [CatBoost Models Wandb Project](https://wandb.ai/turkenm/js_catboost/workspace)  
 [LGBM Models Wandb Project](https://wandb.ai/turkenm/js_lgbm/workspace)  
